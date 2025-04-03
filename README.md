@@ -16,7 +16,7 @@ LED Wiring: A ws2812b LED strip with 150 RGB LEDs are wired to a data pin on the
 
 Audio Response: The lighting reacts to audio signals, using code you can find in this repository under the alienAnimation folder. You will also be able to see the other projects and tests we compiled for Illumibrate. Those aren't on display, but they may give you more ideas we were working with.
 
-For a more detailed look at the setup and how to replicate it, check out the technical documentation and wiring diagrams in the repository.
+For a more detailed look at the setup and how to replicate it, check out the technical documentation and wiring diagrams below.
 
 ### How You Can Contribute
 We’re inviting the public to participate and create their own versions of the code! Here’s how you can get involved:
