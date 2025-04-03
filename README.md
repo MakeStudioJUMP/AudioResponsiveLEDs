@@ -35,7 +35,8 @@ We’ll feature your submissions in our lobby display, and we’ll recognize con
 
 ### Technical Diagrams
 
-![AudioReactiveLEDWiringGuide_bb](https://github.com/user-attachments/assets/e5d6f060-c605-4053-a844-fb1e6c188937)
+![AudioReactiveLEDWiringGuide_bb](https://github.com/user-attachments/assets/85e99f5f-faa1-4f0e-bcce-8d2bec338f57)
+
 ![20250326_211224150_iOS](https://github.com/user-attachments/assets/65c1798b-395c-4c96-ae1f-f9dab64b3f95)
 
 
