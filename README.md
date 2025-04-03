@@ -12,7 +12,7 @@ The Alien Visitors are equipped with LED lights that respond to audio input, cre
 ### Technical Setup
 Microcontrollers: Arduino Nano.
 
-LED Wiring: The LEDs are wired to a data pin on the arduino board and to a power supply. More detailed photos and wiring diagrams can be found below.
+LED Wiring: A ws2812b LED strip with 150 RGB LEDs are wired to a data pin on the arduino board and to a power supply. More detailed photos and wiring diagrams can be found below.
 
 Audio Response: The lighting reacts to audio signals, using code you can find in this repository under the alienAnimation folder. You will also be able to see the other projects and tests we compiled for Illumibrate. Those aren't on display, but they may give you more ideas we were working with.
 
