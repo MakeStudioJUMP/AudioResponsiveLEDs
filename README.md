@@ -44,7 +44,7 @@ We’ll feature your submissions in our lobby display, and we’ll recognize con
 This project is licensed under the CC-BY-SA 4.0 license
 
 ### Contact
-If you have any questions or need assistance with the project, please feel free to reach out to us via GitHub Issues or email us at make.studio@jumpboise.org.
+If you have any questions or need assistance with the project, please feel free to reach out to us via GitHub Issues or email us at make@jumpboise.org.
 
 ___
 
